@@ -1,4 +1,5 @@
-/* Selection options are FIRST (first rows) or RANDOM (random sample) */
+/* Selection options are RANDOM
+ (first rows) or RANDOM (random sample) */
 %let selection=FIRST;
 
 /* GET TOTAL ROW COUNT FROM TABLE */
